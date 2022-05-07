@@ -45,7 +45,7 @@ The results were printed to a text file and submitted the Election Board of Colo
  
 
 ## Election Audit Summary
-The script used to audit the election results of this congressional race can be adjusted to not only run audits on other congressinal races both in Coloardo and in other states, but also for statewide and even nationwide elections provided there is a reliable data upon which to run the audits. For statewide audits, the script would need to be modified to include not just congressional races, but statewide elections (like governor or attorney general). The county data aspect of the script would need to be modified to show the results of both congressional and statewide races likely using various conditionals to make sure the data for both races are accurately tabulated. 
+The script used to audit the election results of this congressional race can be adjusted to not only run audits on other congressinal races both in Coloardo and in other states, but also for statewide and even nationwide elections provided there is a reliable data upon which to run the audits. For statewide audits, the script would need to be modified to include not just congressional races, but statewide elections (like governor or attorney general). The county data aspect of the script would need to be modified to show the results of both congressional and statewide races likely using various conditionals to make sure the data for both races are accurately tabulated. Variables would need to be adjusted and added to account for the different tiers in election races and to provide as much detail as possible for audits.
     
      
 
